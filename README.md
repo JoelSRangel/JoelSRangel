@@ -1,14 +1,13 @@
 ### Hi there 👋, 
-I'm Joel Soares, a college student, currently majoring in Software Engineering at the Universidade de Brasilia 🤓
-
-<!--
-**JoelSRangel/JoelSRangel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+I'm Joel Soares 😄
+I am a college student 🤓
+- 💻 Currently majoring in Software Engineering at the Universidade de Brasilia 
+- 🔭 I’m currently working on developing my programming skills
+- 🌱 I’m currently learning Python, C++, C#, C and SQL.
+- 
+- <!--
 - 👯 I’m looking to collaborate on ...
+
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
