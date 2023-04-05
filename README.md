@@ -4,8 +4,7 @@ I am a college student 🤓
 - 💻 Currently majoring in Software Engineering at the Universidade de Brasilia 
 - 🔭 I’m currently working on developing my programming skills
 - 🌱 I’m currently learning Python, C++, C#, C and SQL.
-- 
-- <!--
+<!--
 - 👯 I’m looking to collaborate on ...
 
 - 🤔 I’m looking for help with ...
